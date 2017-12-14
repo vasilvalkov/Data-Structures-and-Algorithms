@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sticks", "Sticks\Sticks.csproj", "{6F5A3472-29FB-4DE2-9C16-D69A0F6A9124}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddSum", "OddSum\OddSum.csproj", "{2DCA6ECF-87C8-4006-BF38-275D9CB40D79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridges", "Bridges\Bridges.csproj", "{6CDAFB9C-6360-41F1-B220-0E5C60318555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5A3472-29FB-4DE2-9C16-D69A0F6A9124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5A3472-29FB-4DE2-9C16-D69A0F6A9124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5A3472-29FB-4DE2-9C16-D69A0F6A9124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5A3472-29FB-4DE2-9C16-D69A0F6A9124}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DCA6ECF-87C8-4006-BF38-275D9CB40D79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCA6ECF-87C8-4006-BF38-275D9CB40D79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCA6ECF-87C8-4006-BF38-275D9CB40D79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCA6ECF-87C8-4006-BF38-275D9CB40D79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDAFB9C-6360-41F1-B220-0E5C60318555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDAFB9C-6360-41F1-B220-0E5C60318555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDAFB9C-6360-41F1-B220-0E5C60318555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDAFB9C-6360-41F1-B220-0E5C60318555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
